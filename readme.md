@@ -33,4 +33,4 @@ to add things in github
     git push --set-upstream origin <new branch name> (to push new branch code in origin)
 
 # pull    
-    git pull origin main
+    git pull origin main.
