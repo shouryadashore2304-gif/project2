@@ -30,3 +30,4 @@ to add things in github
     git checkout <branch name> (to navigate)
     git checkout -b <new branch name> (to create new branch)
     git branch -d <branch name> (to delete branch)
+    git push --set-upstream origin <new branch name> (to push new branch code in origin)
