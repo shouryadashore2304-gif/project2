@@ -35,3 +35,15 @@ to add things in github
 
 # pull    
     git pull origin main.
+
+# staged changes
+    git reset <file name>
+    git reset
+
+# commited changes (for one commit)
+    git reset HEAD~1    
+
+# commited changes (for many commits)
+    git reset <commit hash>
+    git reset --hard <commit hash> (hata rahe changes screen pe)
+    commit hash will be known from commit log = "git log"    
