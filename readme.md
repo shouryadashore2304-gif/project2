@@ -9,7 +9,7 @@ to add things in github
     to simpify 1 and 2 we can directly write = git commit -am "msg"
     then-> git push origin main
    
-
+git pull origin main --rebase (for any difficulty in pushing)
 
 # first 
     git commit -m "updated anuthing"
